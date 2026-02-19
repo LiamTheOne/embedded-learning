@@ -3,7 +3,9 @@ Self study learning path and projects towards embedded and robotics engineering
 
 ## Overzicht leerpad
 ⌛ Duur: 9-12 maanden
+
 🎯 Doel: job ready embedded / robotics engineer met sterke software link
+
 📋 Output: portfolio met hardware + software + systeemdenken
 
 Fases:
